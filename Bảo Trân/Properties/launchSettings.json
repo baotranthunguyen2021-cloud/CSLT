@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Bảo Trân": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
